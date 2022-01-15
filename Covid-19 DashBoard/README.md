@@ -48,6 +48,10 @@ As mentioned in the dataset details, data is been captured from the ‘Our World
 5.	World population
 Most of the data is correct for the country Ireland. And in tableau prep builder, I have modified few of the fields, remove not utilized field and done necessary grouping and joins based on the date.
 
+  <img alt="HackerRank" src="https://github.com/WIT-Vibin-2021/Tableau_BI/blob/main/Covid-19%20DashBoard/Prep.jpg">
+
+
+
 ##	Dashboard
 The dash board have four charts
 1.	Vaccination Administered per hundred people - Age group: This chart will show the fully vaccinated people and the total people vaccinated on different four age group. The value will be less than or equal to 100, since it’s a per hundred rates.
